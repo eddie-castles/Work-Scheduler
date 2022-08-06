@@ -2,7 +2,7 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Your Task
-For this assignment we were asked to use a google API, local storage, bootstrap style css, moment.js for pulling real date and time to creake a simple website for keeping track of an average work day. 
+For the work scheduler we were asked to create a employee work day scheduler, we used moment.js to pull real time information. Styled it with bootstrap.css, and we had to make sure the informationwas kept in local storage
 
 
 ## My experience 
